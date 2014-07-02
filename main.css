@@ -1,0 +1,20 @@
+.parking-lot{
+	margin: 20px;
+}
+
+.parking-lot td {
+	border-bottom:solid 1px black;
+	padding: 10px;
+	width: 50px;
+	height: 50px;
+	border-right: solid 1px black;
+
+}
+
+.parking-lot td:first-child{
+/*border-bottom: solid 1px black;*/
+
+}
+.parking-lot tr:first-child;{
+	border-bottom: none;
+	border-right: none;
